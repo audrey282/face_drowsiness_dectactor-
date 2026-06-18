@@ -18,4 +18,4 @@ Alarm when driver appears sleepy
 
 This is similar to real ADAS systems.
 
-# please note that: installing vav is a must
+# please note that: installing venv is a must
